@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **oben01/oben01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center"><a href="#">Oussama DAHMAZ</a></h1>
+
+<p align="center">
+  <strong>Full stack engineer</strong>
+</p>
 
 ## 📈 Stats
 
