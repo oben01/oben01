@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><a href="#">Oussama DAHMAZ</a></h1>
+<h1 align="center"><a href="#">Oussama DAHMAZ</a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <p align="center">
   <strong>Full stack engineer</strong>
